@@ -3,7 +3,9 @@ Automatically squelch opponent at the beginning of the game.
 
 Dependencies:
 Python 3+
+
 Pynput
+
 Pywin32
 
 You need to have logging enabled for hearthstone.
